@@ -1,0 +1,15 @@
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\MainWindow.g.cs
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\App.g.cs
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam_MarkupCompile.cache
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam_MarkupCompile.lref
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\MainWindow.baml
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.g.resources
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\cshuk\OneDrive\Рабочий стол\Новая папка\Exam\Exam\obj\Debug\Exam.pdb
